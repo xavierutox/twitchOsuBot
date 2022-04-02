@@ -4,7 +4,7 @@ TWITCH_ACCESS_TOKEN = "YourTokenHere"
 CLIENT_ID = "YourOsourAppIdHere>"    
 CLIENT_SECRET = "YourOsourAppSecretHere"   
 REDIRECT_URL = "http://localhost:3914"   
-USER_ID = YourOurOsuId>  
+USER_ID = YourOurOsuId   
 
 # How to get your OSU CLIENT_ID and CLIENT_SECRET? 
 
